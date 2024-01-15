@@ -9,7 +9,7 @@ Lab Instructions: [https://cs.oberlin.edu/~cs151/lab-7/](https://cs.oberlin.edu/
 ## Questions
 
 1. Did you collaborate with anyone on the warmup?  If so, whom did you collaborate with?
-Ezra lab helper
+Ezra, our lab helper.
 2. How much time do you think you spent on this lab?
 3 hours
 3. Did you follow the Honor Code?
